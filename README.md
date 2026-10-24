@@ -1,2 +1,2 @@
 # YelpCamp
-udemyのキャンプ場サイト
+udemyのキャンプ場サイト練習
