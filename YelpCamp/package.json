@@ -6,12 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenfdev/YelpCamp-ja.git"
+  },
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kenfdev/YelpCamp-ja/issues"
+  },
+  "homepage": "https://github.com/kenfdev/YelpCamp-ja#readme",
   "dependencies": {
     "ejs": "^7.0.2",
+    "ejs-mate": "^4.0.0",
     "express": "^5.3.0",
     "method-override": "^3.0.0",
     "mongoose": "^5.13.23"
